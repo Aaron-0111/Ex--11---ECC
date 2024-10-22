@@ -5,7 +5,7 @@ To implement the Elliptic Curve Cryptography (ECC) key exchange algorithm and se
 
 ## DESIGN STEPS:
 
-### Step 1:
+### Step 1: 
 Choose a large prime number p and an elliptic curve defined by the equation 𝑦^2 = 𝑥^3 + 𝑎𝑥 +𝑏 mod p along with a base point G on the curve.
 
 ### Step 2:
